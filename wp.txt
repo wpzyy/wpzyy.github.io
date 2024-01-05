@@ -1,96 +1,85 @@
-央视卫视,#genre#
-CCTV-1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-CCTV-1,http://ott.mobaibox.com/PLTV/3/224/3221228049/index.m3u8
-CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV-1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-2,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV-2,http://ott.mobaibox.com/PLTV/3/224/3221227427/index.m3u8
-CCTV-2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-CCTV-2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV-3,http://ott.mobaibox.com/PLTV/3/224/3221227424/index.m3u8
-CCTV-3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-CCTV-4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4,http://ott.mobaibox.com/PLTV/3/224/3221227489/index.m3u8
-CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV-5,http://111.59.63.32:9901/tsfile/live/1012_1.m3u8
-CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-CCTV-5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV-6,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-8,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV-8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV-9,http://111.20.35.103:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-9,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-10,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV-10,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV-11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV-12,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-CCTV-13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV-14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV-14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV-14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-CCTV-15,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV-15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV-16,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-纯享4K,http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-东南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8
-云南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228169/index.m3u8
-北京卫视,http://ott.mobaibox.com/PLTV/3/224/3221225574/index.m3u8
-吉林卫视,http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-四川卫视,http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
-天津卫视,http://ott.mobaibox.com/PLTV/3/224/3221227407/index.m3u8
-安徽卫视,http://ott.mobaibox.com/PLTV/3/224/3221227643/index.m3u8
-山东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227448/index.m3u8
-广东卫视,http://ott.mobaibox.com/PLTV/3/224/3221227445/index.m3u8
-广西卫视,http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-新疆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
-江苏卫视,http://ott.mobaibox.com/PLTV/3/224/3221227439/index.m3u8
-江西卫视,http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
-河北卫视,http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
-河南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-浙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221228204/index.m3u8
-海南卫视,http://ott.mobaibox.com/PLTV/3/224/3221228139/index.m3u8
-深圳卫视,http://ott.mobaibox.com/PLTV/3/224/3221227442/index.m3u8
-湖北卫视,http://ott.mobaibox.com/PLTV/3/224/3221227495/index.m3u8
-湖南卫视,http://ott.mobaibox.com/PLTV/3/224/3221227404/index.m3u8
-甘肃卫视,http://ott.mobaibox.com/PLTV/3/224/3221228166/index.m3u8
-贵州卫视,http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
-辽宁卫视,http://ott.mobaibox.com/PLTV/3/224/3221227410/index.m3u8
-重庆卫视,http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-黑龙江卫视,http://ott.mobaibox.com/PLTV/3/224/3221227638/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克 4K
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV-4K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视频道",兵器科技
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视频道",世界地理
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视频道",文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视频道",央视台球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/央视高网.png" group-title="央视频道",央视高网
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视频道",风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视频道",风云音乐
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视频道",第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视频道",女性时尚
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视频道",风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视频道",电视指南
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="央视频道",CGTN记录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+https://livear.cgtn.com/1000a/prog_index.m3u8
